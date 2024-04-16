@@ -1,5 +1,22 @@
+<<<<<<< HEAD
  Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,linux
+=======
+# Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,executable,linux
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,executable,linux
+
+### Executable ###
+*.app
+*.bat
+*.cgi
+*.com
+*.exe
+*.gadget
+*.jar
+*.pif
+*.vb
+*.wsf
+>>>>>>> tphecho/master
 
 ### Linux ###
 *~
@@ -58,7 +75,16 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+<<<<<<< HEAD
 # Windows shortcuts
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,linux
+=======
+*.vscode/
+
+# Windows shortcuts
+*.lnk
+
+# End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,executable,linux
+>>>>>>> tphecho/master
