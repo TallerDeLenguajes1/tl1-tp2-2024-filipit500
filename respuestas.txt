@@ -1,0 +1,5 @@
+no se puede ver el archivo tp2_1_2.c porque esta en la rama Opcion2
+
+ahora se agrego el archivo respuestas.txt a la rama master
+
+ahora se combinaron las ramas master y Opcion2
